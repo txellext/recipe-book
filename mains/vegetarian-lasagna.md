@@ -22,8 +22,6 @@
 
 ## Instructions
 
-1. **Preheat Oven:**
-   - Preheat your oven to 375°F (190°C).
 
 2. **Prepare Vegetables:**
    - Heat olive oil in a large skillet over medium heat. Add the onion and garlic, sautéing until softened.
